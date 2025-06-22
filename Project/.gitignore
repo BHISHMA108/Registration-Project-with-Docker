@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 ./node_modules/
 ./Project.zip/
+./Project Docker/Project/server/.env
